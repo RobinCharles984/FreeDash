@@ -1,0 +1,11 @@
+Coins = 0
+Level 2 Unlock = false
+Level 3 Unlock = false
+Level 4 Unlock = false
+Level 5 Unlock = false
+Level 6 Unlock = false
+Skin 2 Unlock = false
+Skin 3 Unlock = false
+Skin 4 Unlock = false
+Skin 5 Unlock = false
+Skin 6 Unlock = false
